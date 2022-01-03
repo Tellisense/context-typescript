@@ -1,5 +1,5 @@
 
-# This is an exaple of how to use React Context API to manage global state in a React Typescript Project.
+## This is an exaple of how to use React Context API to manage global state in a React Typescript Project.
 
 
 # Getting Started with Create React App
